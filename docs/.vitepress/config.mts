@@ -4,9 +4,9 @@ const base = "/MX-MTR/"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base,
-  head: [
-    ['script', { src: '/live2d.js' }],
-  ],
+  // head: [
+  //   ['script', { src: '/live2d.js' }],
+  // ],
   title: "MX MTR",
   description: "MX MTR服务器官网",
   themeConfig: {

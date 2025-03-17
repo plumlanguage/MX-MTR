@@ -4,7 +4,7 @@ import './style/custom-block.css'
 import './style/blur.css'
 import './style/marker.css'
 import './style/var.css'
-import 'https://unpkg.com/oh-my-live2d@latest'
+// import 'https://unpkg.com/oh-my-live2d@latest'
 // import BlogTheme from '@sugarat/theme';
 
 
