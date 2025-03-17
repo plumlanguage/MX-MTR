@@ -17,9 +17,9 @@ features:
   - title: 自由
     details: 在服务器中您可以自由的建造，探索，冒险，自由的选择自己喜欢的游戏模式。
   - title: 开放
-    details: 奶奶滴，不知道怎么写！
+    details: 低限制<br/>*以群内群通知为主*
   - title: 和谐
-    details: ……更是懒得喷！
+    details: 友好的群众环境共建美好世界
 ---
 
 
