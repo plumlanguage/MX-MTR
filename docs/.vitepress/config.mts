@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-const base = "/MX-MTP/"
+const base = "/MX-MTR/"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base,
