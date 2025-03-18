@@ -5,6 +5,9 @@ layout: home
 hero:
   name: "MX MTR"
   tagline:  自由，开放，和谐的我的世界服务器
+  image:
+    src: /MXMTRlogo.png
+    alt: logo
   actions:
     - theme: brand
       text: 现在加入
